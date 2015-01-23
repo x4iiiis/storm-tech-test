@@ -2,7 +2,7 @@
 
 The test is designed to allow you to show us your knowledge and experience within a plausible web application scenerio.
 
-To get started either download the current latest release or fork the repository and work from there.
+To get started either download the current latest master release (.zip) or fork the repository and work from there, the choice is yours.
 
 Once you have a local copy of the code, open it in Visual Studio, restore the NuGet packages, re-build the solution and run the web project, if all is well you will see the introduction and a list of tasks to consider.
 

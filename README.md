@@ -10,6 +10,9 @@ You can choose whether to complete the tasks sequentially or out of sequence, or
 
 *Task 999* as the name implies is very much optional and if you choose to give this a go we will likely be very impressed, but it is not something we are expecting, we might discuss your thoughts on how you would implement this during any interview however.
 
+# Code Comments
+Feel free to comment your code to describe your thought processes when during with each task, this will help create discussion points during an interview.
+
 # Example Site
 
 http://storm-tech-test.azurewebsites.net/

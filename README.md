@@ -10,6 +10,10 @@ You can choose whether to complete the tasks sequentially or out of sequence, or
 
 *Task 999* as the name implies is very much optional and if you choose to give this a go we will likely be very impressed, but it is not something we are expecting, we might discuss your thoughts on how you would implement this during any interview however.
 
+# Example Site
+
+http://storm-tech-test.azurewebsites.net/
+
 ---
 
 * Hearthstone card data is taken from http://hearthstonejson.com/

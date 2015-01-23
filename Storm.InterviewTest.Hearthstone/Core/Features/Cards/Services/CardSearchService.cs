@@ -15,11 +15,6 @@ namespace Storm.InterviewTest.Hearthstone.Core.Features.Cards.Services
 			_cardCache = cardCache;
 		}
 
-		/// <summary>
-		/// Remove and make a task to implement along with details pages with DisplayTemplates
-		/// </summary>
-		/// <param name="id"></param>
-		/// <returns></returns>
 		public CardModel FindById(string id)
 		{
 			var card = _cardCache.GetById<ICard>(id);

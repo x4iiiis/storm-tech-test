@@ -120,8 +120,14 @@
     <Compile Include="App_Start\CardCacheConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CardController.cs" />
     <Compile Include="Core\Common\Queries\Base\SingleCardLinqQueryObject.cs" />
     <Compile Include="Core\Common\Queries\FindHeroCardQuery.cs" />
+    <Compile Include="Core\Common\Queries\FindPlayableHeroCardsQuery.cs" />
+    <Compile Include="Core\Features\Cards\Models\HeroModel.cs" />
+    <Compile Include="Core\Features\Cards\Models\MinionModel.cs" />
+    <Compile Include="Core\Features\Cards\Models\SpellModel.cs" />
+    <Compile Include="Core\Features\Cards\Models\WeaponModel.cs" />
     <Compile Include="Core\Features\Cards\Services\CardSearchService.cs" />
     <Compile Include="Core\Features\Cards\ICardSearchService.cs" />
     <Compile Include="Controllers\MyDecksController.cs" />

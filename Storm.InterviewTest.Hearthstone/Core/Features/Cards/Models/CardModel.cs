@@ -18,23 +18,4 @@ namespace Storm.InterviewTest.Hearthstone.Core.Features.Cards.Models
 		public string Faction { get; set; }
 
 	}
-
-	public class MinionModel : CardModel
-	{
-		public int Health { get; set; }
-	}
-
-	public class WeaponModel : CardModel
-	{
-		public int Durability { get; set; }
-	}
-
-	public class SpellModel : CardModel
-	{
-		
-	}
-
-	public class HeroModel : MinionModel
-	{
-	}
 }

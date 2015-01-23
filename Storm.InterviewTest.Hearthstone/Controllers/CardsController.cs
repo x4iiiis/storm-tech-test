@@ -17,19 +17,4 @@ namespace Storm.InterviewTest.Hearthstone.Controllers
 			return View(cards);
 		}
 	}
-
-	/// <summary>
-	/// Make task (this is a completed solution example)
-	/// </summary>
-	public class CardController : Controller
-	{
-		public ActionResult Details(string id)
-		{
-			var searchService = new CardSearchService(MvcApplication.CardCache);
-
-			var model = searchService.FindById(id);
-
-			return View(model);
-		}
-	}
 }

@@ -181,3 +181,6 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+Storm.InterviewTest.Hearthstone/App_Data/*
+!Storm.InterviewTest.Hearthstone/App_Data/cards.json

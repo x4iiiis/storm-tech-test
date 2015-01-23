@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is the Storm Candidate Technical Test
 
 The test is designed to allow you to show us your knowledge and experience within a plausible web application scenerio.
@@ -14,3 +15,6 @@ You can choose whether to complete the tasks sequentially or out of sequence, or
 
 * Hearthstone card data is taken from http://hearthstonejson.com/
 * Hearthstone card images are downloaded from http://www.wowhead.com/ static content archive
+=======
+# storm-tech-test
+>>>>>>> ade385b7acb7a3ecaba444ac2366cb03a5f4eb7e

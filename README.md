@@ -4,7 +4,7 @@ The test is designed to allow you to show us your knowledge and experience withi
 
 To get started either download the current latest release or fork the repository and work from there.
 
-Once you have a local copy of the code, open Visual Studio, build and run the solution, if all is well you will see the introduction and a list of tasks to consider.
+Once you have a local copy of the code, open it in Visual Studio, restore the NuGet packages, re-build the solution and run the web project, if all is well you will see the introduction and a list of tasks to consider.
 
 You can choose whether to complete the tasks sequentially or out of sequence, or whether you complete all the available tasks.  Some tasks are designed to test more experienced developers, so we will not be expecting all candidates to have completed all the tasks.
 

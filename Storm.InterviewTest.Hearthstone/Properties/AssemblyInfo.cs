@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Storm.InterviewTest.Hearthstone")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A Hearthstone based technical test")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Storm.InterviewTest.Hearthstone")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCopyright("Copyright © Storm ID Ltd 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -33,4 +33,4 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyFileVersion("1.0.*")]
-[assembly: AssemblyInformationalVersion("1.0")]
+[assembly: AssemblyInformationalVersion("1.0-develop")]

@@ -1,5 +1,9 @@
 # This is the Storm Candidate Technical Test
 
+# Build Status
+[![Build status](https://ci.appveyor.com/api/projects/status/awebcq28n4b36rs7/branch/master?svg=true)](https://ci.appveyor.com/project/stormid-build/storm-tech-test/branch/master)
+
+#Introduction
 The test is designed to allow you to show us your knowledge and experience within a plausible web application scenerio.
 
 To get started either download the current latest master release (.zip) or fork the repository and work from there, the choice is yours.

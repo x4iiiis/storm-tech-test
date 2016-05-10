@@ -1,7 +1,7 @@
 # This is the Storm Candidate Technical Test
 
 # Build Status
-[![Build status](https://ci.appveyor.com/api/projects/status/awebcq28n4b36rs7/branch/master?svg=true)](https://ci.appveyor.com/project/stormid-build/storm-tech-test/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/lk2wil8wjyxyiepy?svg=true)](https://ci.appveyor.com/project/StormID/storm-tech-test)
 
 #Introduction
 The test is designed to allow you to show us your knowledge and experience within a plausible web application scenerio.

@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using System.Linq;
 using Storm.InterviewTest.Hearthstone.Core.Features.Cards;
 using Storm.InterviewTest.Hearthstone.Core.Features.Cards.Domain;

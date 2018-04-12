@@ -1,5 +1,4 @@
 ﻿using System;
-using Newtonsoft.Json;
 
 namespace Storm.InterviewTest.Hearthstone.Core.Features.Cards.Domain
 {

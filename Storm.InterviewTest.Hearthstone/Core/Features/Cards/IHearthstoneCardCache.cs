@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using Storm.InterviewTest.Hearthstone.Core.Common.Queries;
 using Storm.InterviewTest.Hearthstone.Core.Common.Queries.Base;
 using Storm.InterviewTest.Hearthstone.Core.Features.Cards.Domain;
 

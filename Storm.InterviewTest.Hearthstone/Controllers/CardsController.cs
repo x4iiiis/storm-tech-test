@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 using Storm.InterviewTest.Hearthstone.Core.Features.Cards.Services;
 
 namespace Storm.InterviewTest.Hearthstone.Controllers

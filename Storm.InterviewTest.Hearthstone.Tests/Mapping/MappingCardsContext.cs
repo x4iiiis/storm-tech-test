@@ -3,7 +3,6 @@ using NUnit.Framework;
 using Storm.InterviewTest.Hearthstone.Core.Common.Queries;
 using Storm.InterviewTest.Hearthstone.Core.Features.Cards;
 using Storm.InterviewTest.Hearthstone.Core.Features.Cards.Domain;
-using Storm.InterviewTest.Hearthstone.Core.Features.Cards.Mapping;
 using Storm.InterviewTest.Hearthstone.Tests.Specification;
 
 namespace Storm.InterviewTest.Hearthstone.Tests.Mapping

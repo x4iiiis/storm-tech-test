@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using Storm.InterviewTest.Hearthstone.Core.Features.Cards.Domain;
 using Storm.InterviewTest.Hearthstone.Core.Features.Cards.Models;
 
 namespace Storm.InterviewTest.Hearthstone.Core.Features.Cards

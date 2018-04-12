@@ -4,13 +4,13 @@ namespace Storm.InterviewTest.Hearthstone.Tests.Specification
 {
     public abstract class ContextSpecification : TestBase
     {
-        [TestFixtureSetUp]
+        [OneTimeSetUp]
         public void TestFixtureSetUp()
         {
             Context_BeforeAllSpecs();
         }
 
-        [TestFixtureTearDown]
+        [OneTimeTearDown]
         public void TestFixtureTearDown()
         {
             CleanUpContext_AfterAllSpecs();

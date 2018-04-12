@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Storm.InterviewTest.Hearthstone")]
-[assembly: AssemblyCopyright("Copyright © Storm ID Ltd 2015")]
+[assembly: AssemblyCopyright("Copyright © Storm Ideas Ltd 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

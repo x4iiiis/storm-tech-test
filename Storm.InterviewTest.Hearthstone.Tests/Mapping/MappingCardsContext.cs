@@ -1,4 +1,5 @@
-﻿using Moq;
+﻿using AutoMapper;
+using Moq;
 using NUnit.Framework;
 using Storm.InterviewTest.Hearthstone.Core.Common.Queries;
 using Storm.InterviewTest.Hearthstone.Core.Features.Cards;
@@ -23,6 +24,7 @@ namespace Storm.InterviewTest.Hearthstone.Tests.Mapping
 			_cache = CreateDependency<IHearthstoneCardCache>();
 			_cache.Setup(s => s.Query(It.IsAny<FindHeroCardQuery>())).Returns(_heroCard);
 
+		    Mapper.Reset();
 			AutoMapperProfiles.RegisterProfiles(_cache.Object);
 		}
 	}

@@ -8,7 +8,10 @@ namespace Storm.InterviewTest.Hearthstone
 	{
 		public static void RegisterProfiles(IHearthstoneCardCache hearthstoneCardCache)
 		{
-			Mapper.AddProfile(new CardsMappingProfile(hearthstoneCardCache));
+            Mapper.Initialize(cfg =>
+            {
+                cfg.AddProfile(new CardsMappingProfile(hearthstoneCardCache));
+            });
 		}
 	}
 }
